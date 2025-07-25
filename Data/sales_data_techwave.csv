@@ -1,0 +1,501 @@
+Product,Category,Region,Sales_Channel,Month,Units_Sold,Unit_Price,Unit_Cost,Total_Sales,Total_Cost,Gross_Margin
+Mini Inverter,Backup,South,Online,Feb-2023,81,1244,714,100764,57834,42930
+Power Bank,Accessories,East,Online,Feb-2023,84,287,472,24108,39648,-15540
+Mini Inverter,Backup,West,Retail,Jun-2022,31,969,443,30039,13733,16306
+Mini Inverter,Backup,North,Retail,May-2022,73,1155,376,84315,27448,56867
+LED Bulb,Lighting,West,Retail,Sep-2022,98,674,158,66052,15484,50568
+Power Bank,Accessories,West,Retail,Mar-2023,89,389,786,34621,69954,-35333
+Smart Switch,Automation,West,Online,Jul-2022,73,1354,584,98842,42632,56210
+Smart Switch,Automation,East,Online,Dec-2022,48,1497,487,71856,23376,48480
+LED Bulb,Lighting,West,Retail,May-2022,18,764,439,13752,7902,5850
+Mini Inverter,Backup,East,Retail,Oct-2022,53,708,134,37524,7102,30422
+LED Bulb,Lighting,West,Retail,Nov-2022,13,1225,489,15925,6357,9568
+Power Bank,Accessories,West,Retail,May-2022,99,361,301,35739,29799,5940
+Mini Inverter,Backup,North,Online,Nov-2022,87,1475,395,128325,34365,93960
+Solar Charger,Green Energy,West,Online,May-2022,62,991,316,61442,19592,41850
+Mini Inverter,Backup,West,Retail,Dec-2022,38,214,164,8132,6232,1900
+LED Bulb,Lighting,East,Online,Nov-2022,10,847,571,8470,5710,2760
+Smart Switch,Automation,East,Online,Nov-2022,44,618,388,27192,17072,10120
+Smart Switch,Automation,South,Retail,Oct-2022,50,1251,234,62550,11700,50850
+LED Bulb,Lighting,West,Retail,May-2022,42,1271,602,53382,25284,28098
+Solar Charger,Green Energy,East,Retail,Nov-2022,95,1160,712,110200,67640,42560
+Smart Switch,Automation,South,Online,Jan-2023,23,1070,492,24610,11316,13294
+Power Bank,Accessories,North,Retail,Jun-2022,72,1063,340,76536,24480,52056
+Mini Inverter,Backup,South,Retail,Jul-2022,32,430,754,13760,24128,-10368
+Smart Switch,Automation,South,Retail,Oct-2022,68,1466,185,99688,12580,87108
+Mini Inverter,Backup,North,Retail,Dec-2022,15,995,127,14925,1905,13020
+Mini Inverter,Backup,West,Retail,Feb-2023,98,1454,289,142492,28322,114170
+LED Bulb,Lighting,South,Online,Feb-2023,71,832,727,59072,51617,7455
+Solar Charger,Green Energy,South,Online,Oct-2022,79,848,417,66992,32943,34049
+Solar Charger,Green Energy,South,Online,Jan-2023,53,863,473,45739,25069,20670
+LED Bulb,Lighting,West,Online,Apr-2022,67,763,367,51121,24589,26532
+Power Bank,Accessories,East,Online,Aug-2022,65,1304,798,84760,51870,32890
+LED Bulb,Lighting,North,Retail,Mar-2023,63,1054,324,66402,20412,45990
+LED Bulb,Lighting,East,Retail,May-2022,62,929,771,57598,47802,9796
+Mini Inverter,Backup,East,Online,Nov-2022,26,966,393,25116,10218,14898
+Solar Charger,Green Energy,West,Retail,Sep-2022,95,951,243,90345,23085,67260
+LED Bulb,Lighting,South,Retail,Feb-2023,79,663,448,52377,35392,16985
+Smart Switch,Automation,West,Retail,Feb-2023,45,602,445,27090,20025,7065
+Smart Switch,Automation,East,Online,Jul-2022,80,688,739,55040,59120,-4080
+Power Bank,Accessories,West,Online,Feb-2023,66,672,250,44352,16500,27852
+Power Bank,Accessories,East,Online,Mar-2023,25,545,723,13625,18075,-4450
+LED Bulb,Lighting,West,Retail,Apr-2022,11,1096,403,12056,4433,7623
+Mini Inverter,Backup,South,Online,Feb-2023,18,1456,198,26208,3564,22644
+Smart Switch,Automation,West,Retail,Jun-2022,29,351,153,10179,4437,5742
+LED Bulb,Lighting,West,Retail,Feb-2023,81,303,353,24543,28593,-4050
+Smart Switch,Automation,West,Retail,Dec-2022,34,1113,437,37842,14858,22984
+Power Bank,Accessories,North,Online,Dec-2022,42,1000,497,42000,20874,21126
+Solar Charger,Green Energy,West,Retail,Nov-2022,17,1358,294,23086,4998,18088
+LED Bulb,Lighting,West,Online,Mar-2023,68,669,474,45492,32232,13260
+Solar Charger,Green Energy,East,Retail,Nov-2022,36,226,325,8136,11700,-3564
+Solar Charger,Green Energy,North,Online,Mar-2023,73,652,758,47596,55334,-7738
+Mini Inverter,Backup,East,Retail,Apr-2022,26,1395,319,36270,8294,27976
+Solar Charger,Green Energy,North,Online,Sep-2022,46,479,448,22034,20608,1426
+LED Bulb,Lighting,North,Online,Jun-2022,69,1192,215,82248,14835,67413
+Solar Charger,Green Energy,South,Retail,Oct-2022,42,1479,422,62118,17724,44394
+Power Bank,Accessories,South,Retail,Sep-2022,67,885,725,59295,48575,10720
+Power Bank,Accessories,East,Online,Jan-2023,11,984,203,10824,2233,8591
+LED Bulb,Lighting,South,Online,Sep-2022,57,1262,576,71934,32832,39102
+Power Bank,Accessories,East,Retail,Jun-2022,59,1120,507,66080,29913,36167
+Solar Charger,Green Energy,West,Retail,Oct-2022,66,235,784,15510,51744,-36234
+Mini Inverter,Backup,South,Retail,Mar-2023,96,1366,191,131136,18336,112800
+Power Bank,Accessories,North,Retail,Oct-2022,72,1053,150,75816,10800,65016
+LED Bulb,Lighting,North,Online,Sep-2022,67,769,441,51523,29547,21976
+LED Bulb,Lighting,West,Retail,Sep-2022,24,1277,543,30648,13032,17616
+Solar Charger,Green Energy,South,Retail,Aug-2022,69,1203,719,83007,49611,33396
+Solar Charger,Green Energy,East,Retail,Sep-2022,56,1066,755,59696,42280,17416
+Solar Charger,Green Energy,North,Retail,Jan-2023,39,856,219,33384,8541,24843
+Smart Switch,Automation,West,Retail,Oct-2022,99,940,573,93060,56727,36333
+Solar Charger,Green Energy,North,Online,Dec-2022,21,1212,740,25452,15540,9912
+Power Bank,Accessories,North,Online,May-2022,57,687,336,39159,19152,20007
+Solar Charger,Green Energy,South,Retail,Oct-2022,73,780,346,56940,25258,31682
+Smart Switch,Automation,West,Retail,Jun-2022,95,896,384,85120,36480,48640
+Mini Inverter,Backup,South,Online,Apr-2022,71,1211,552,85981,39192,46789
+Mini Inverter,Backup,West,Retail,Jan-2023,57,540,650,30780,37050,-6270
+Mini Inverter,Backup,South,Retail,Aug-2022,32,721,199,23072,6368,16704
+Power Bank,Accessories,West,Online,Jan-2023,28,641,707,17948,19796,-1848
+LED Bulb,Lighting,West,Online,Jul-2022,25,991,435,24775,10875,13900
+Power Bank,Accessories,South,Retail,Feb-2023,93,889,774,82677,71982,10695
+Mini Inverter,Backup,South,Online,Jun-2022,52,1491,676,77532,35152,42380
+LED Bulb,Lighting,West,Retail,Feb-2023,53,484,496,25652,26288,-636
+Mini Inverter,Backup,East,Retail,May-2022,44,926,189,40744,8316,32428
+Solar Charger,Green Energy,North,Retail,Jan-2023,43,314,716,13502,30788,-17286
+Mini Inverter,Backup,North,Online,May-2022,84,612,475,51408,39900,11508
+Mini Inverter,Backup,South,Online,Dec-2022,45,656,291,29520,13095,16425
+Smart Switch,Automation,South,Online,Jul-2022,91,1208,195,109928,17745,92183
+Solar Charger,Green Energy,West,Online,Oct-2022,22,478,316,10516,6952,3564
+Smart Switch,Automation,South,Retail,Apr-2022,71,795,441,56445,31311,25134
+Solar Charger,Green Energy,East,Online,Apr-2022,21,644,332,13524,6972,6552
+Smart Switch,Automation,West,Online,Oct-2022,37,917,483,33929,17871,16058
+Mini Inverter,Backup,East,Retail,Aug-2022,78,1322,495,103116,38610,64506
+LED Bulb,Lighting,West,Online,Aug-2022,62,1374,243,85188,15066,70122
+LED Bulb,Lighting,East,Online,Aug-2022,51,1409,497,71859,25347,46512
+Power Bank,Accessories,South,Online,Oct-2022,84,857,687,71988,57708,14280
+LED Bulb,Lighting,North,Retail,Mar-2023,26,1476,329,38376,8554,29822
+Solar Charger,Green Energy,West,Retail,Dec-2022,59,994,733,58646,43247,15399
+Power Bank,Accessories,South,Online,Aug-2022,47,538,747,25286,35109,-9823
+Solar Charger,Green Energy,South,Retail,Jul-2022,26,710,426,18460,11076,7384
+LED Bulb,Lighting,South,Retail,Jul-2022,79,1475,514,116525,40606,75919
+Smart Switch,Automation,South,Retail,Sep-2022,48,290,630,13920,30240,-16320
+Smart Switch,Automation,South,Online,May-2022,67,675,555,45225,37185,8040
+Solar Charger,Green Energy,East,Online,Oct-2022,10,586,447,5860,4470,1390
+LED Bulb,Lighting,East,Retail,Apr-2022,34,1023,216,34782,7344,27438
+Power Bank,Accessories,West,Online,Aug-2022,89,1085,312,96565,27768,68797
+Smart Switch,Automation,West,Online,Jul-2022,28,246,332,6888,9296,-2408
+LED Bulb,Lighting,North,Online,Apr-2022,63,1482,755,93366,47565,45801
+LED Bulb,Lighting,East,Retail,Jan-2023,25,1167,457,29175,11425,17750
+Mini Inverter,Backup,West,Retail,Aug-2022,17,1345,447,22865,7599,15266
+Mini Inverter,Backup,North,Retail,Jan-2023,69,1401,639,96669,44091,52578
+Mini Inverter,Backup,South,Online,Jul-2022,73,701,244,51173,17812,33361
+LED Bulb,Lighting,South,Online,Jul-2022,86,931,657,80066,56502,23564
+Smart Switch,Automation,South,Retail,May-2022,78,649,109,50622,8502,42120
+Power Bank,Accessories,East,Online,Aug-2022,42,573,164,24066,6888,17178
+Power Bank,Accessories,West,Online,Apr-2022,20,1052,381,21040,7620,13420
+LED Bulb,Lighting,North,Online,Feb-2023,58,304,198,17632,11484,6148
+LED Bulb,Lighting,South,Retail,Oct-2022,15,675,744,10125,11160,-1035
+Smart Switch,Automation,South,Online,Aug-2022,62,876,557,54312,34534,19778
+Smart Switch,Automation,South,Online,Dec-2022,10,250,784,2500,7840,-5340
+Solar Charger,Green Energy,West,Retail,Apr-2022,41,233,447,9553,18327,-8774
+Power Bank,Accessories,North,Retail,Sep-2022,12,467,153,5604,1836,3768
+Mini Inverter,Backup,South,Retail,Feb-2023,66,600,723,39600,47718,-8118
+Solar Charger,Green Energy,South,Retail,May-2022,84,634,202,53256,16968,36288
+Mini Inverter,Backup,North,Retail,May-2022,91,997,434,90727,39494,51233
+Smart Switch,Automation,East,Online,May-2022,61,448,265,27328,16165,11163
+LED Bulb,Lighting,West,Online,Mar-2023,39,958,205,37362,7995,29367
+Smart Switch,Automation,South,Online,Jul-2022,19,383,500,7277,9500,-2223
+Power Bank,Accessories,South,Retail,Jul-2022,97,268,645,25996,62565,-36569
+Solar Charger,Green Energy,North,Online,Feb-2023,52,310,762,16120,39624,-23504
+Smart Switch,Automation,North,Retail,Nov-2022,13,559,795,7267,10335,-3068
+LED Bulb,Lighting,East,Retail,Jun-2022,36,292,771,10512,27756,-17244
+Power Bank,Accessories,South,Retail,Jun-2022,28,1228,565,34384,15820,18564
+Mini Inverter,Backup,North,Online,Sep-2022,30,1037,612,31110,18360,12750
+Solar Charger,Green Energy,South,Retail,Jan-2023,55,745,177,40975,9735,31240
+Power Bank,Accessories,South,Online,Dec-2022,35,448,146,15680,5110,10570
+LED Bulb,Lighting,North,Online,Nov-2022,72,247,672,17784,48384,-30600
+LED Bulb,Lighting,North,Retail,Apr-2022,17,824,352,14008,5984,8024
+Mini Inverter,Backup,East,Online,Nov-2022,95,725,573,68875,54435,14440
+Mini Inverter,Backup,East,Retail,Nov-2022,11,564,765,6204,8415,-2211
+Smart Switch,Automation,West,Online,Oct-2022,12,1118,462,13416,5544,7872
+Mini Inverter,Backup,South,Retail,Jan-2023,47,938,114,44086,5358,38728
+LED Bulb,Lighting,East,Online,Mar-2023,83,1262,372,104746,30876,73870
+Power Bank,Accessories,North,Retail,Dec-2022,26,1435,124,37310,3224,34086
+Mini Inverter,Backup,North,Online,Dec-2022,27,310,327,8370,8829,-459
+Power Bank,Accessories,East,Retail,Nov-2022,92,624,712,57408,65504,-8096
+Mini Inverter,Backup,North,Retail,May-2022,68,514,476,34952,32368,2584
+LED Bulb,Lighting,South,Retail,Aug-2022,79,823,615,65017,48585,16432
+Smart Switch,Automation,North,Retail,Nov-2022,64,1360,342,87040,21888,65152
+Solar Charger,Green Energy,West,Retail,Sep-2022,75,667,174,50025,13050,36975
+Mini Inverter,Backup,East,Retail,Sep-2022,60,773,540,46380,32400,13980
+Power Bank,Accessories,East,Online,Nov-2022,35,372,399,13020,13965,-945
+Solar Charger,Green Energy,North,Retail,Sep-2022,77,923,324,71071,24948,46123
+Mini Inverter,Backup,South,Retail,Apr-2022,99,853,419,84447,41481,42966
+Solar Charger,Green Energy,North,Online,Jul-2022,86,458,772,39388,66392,-27004
+Power Bank,Accessories,West,Retail,Aug-2022,32,371,112,11872,3584,8288
+Power Bank,Accessories,West,Online,Aug-2022,82,984,649,80688,53218,27470
+Smart Switch,Automation,North,Online,Apr-2022,78,517,335,40326,26130,14196
+Power Bank,Accessories,North,Online,Nov-2022,84,1360,687,114240,57708,56532
+Smart Switch,Automation,East,Online,Nov-2022,73,1117,671,81541,48983,32558
+Solar Charger,Green Energy,West,Online,Dec-2022,23,997,390,22931,8970,13961
+Solar Charger,Green Energy,South,Online,Jun-2022,87,773,231,67251,20097,47154
+LED Bulb,Lighting,South,Retail,Dec-2022,27,495,394,13365,10638,2727
+Smart Switch,Automation,South,Retail,Apr-2022,32,774,242,24768,7744,17024
+LED Bulb,Lighting,South,Online,Apr-2022,75,1020,715,76500,53625,22875
+Smart Switch,Automation,East,Online,Sep-2022,15,778,490,11670,7350,4320
+Smart Switch,Automation,West,Retail,Jul-2022,24,677,330,16248,7920,8328
+Smart Switch,Automation,West,Online,Sep-2022,66,1320,510,87120,33660,53460
+LED Bulb,Lighting,North,Retail,Sep-2022,75,716,734,53700,55050,-1350
+Power Bank,Accessories,South,Retail,Sep-2022,22,1382,327,30404,7194,23210
+Solar Charger,Green Energy,West,Retail,Nov-2022,24,1380,747,33120,17928,15192
+Solar Charger,Green Energy,South,Online,Jul-2022,85,329,510,27965,43350,-15385
+Smart Switch,Automation,East,Retail,Jul-2022,35,268,759,9380,26565,-17185
+Smart Switch,Automation,North,Retail,Nov-2022,47,1357,122,63779,5734,58045
+Power Bank,Accessories,North,Online,Mar-2023,99,340,715,33660,70785,-37125
+Power Bank,Accessories,South,Online,Nov-2022,69,882,559,60858,38571,22287
+Mini Inverter,Backup,West,Retail,Jul-2022,14,1087,226,15218,3164,12054
+Power Bank,Accessories,South,Retail,Jan-2023,18,1213,150,21834,2700,19134
+Solar Charger,Green Energy,North,Retail,Dec-2022,95,978,506,92910,48070,44840
+LED Bulb,Lighting,North,Online,Aug-2022,99,619,281,61281,27819,33462
+LED Bulb,Lighting,South,Online,Sep-2022,64,570,760,36480,48640,-12160
+LED Bulb,Lighting,South,Online,Jan-2023,61,512,216,31232,13176,18056
+Power Bank,Accessories,South,Online,Jul-2022,34,274,485,9316,16490,-7174
+Power Bank,Accessories,East,Retail,Feb-2023,26,839,278,21814,7228,14586
+LED Bulb,Lighting,East,Retail,Sep-2022,97,1384,276,134248,26772,107476
+Solar Charger,Green Energy,East,Online,Sep-2022,35,355,568,12425,19880,-7455
+LED Bulb,Lighting,East,Online,Jul-2022,58,347,729,20126,42282,-22156
+Mini Inverter,Backup,East,Online,Nov-2022,58,526,240,30508,13920,16588
+Smart Switch,Automation,East,Retail,Jun-2022,71,231,769,16401,54599,-38198
+Solar Charger,Green Energy,South,Online,Nov-2022,28,217,689,6076,19292,-13216
+Smart Switch,Automation,East,Retail,May-2022,47,1146,743,53862,34921,18941
+LED Bulb,Lighting,West,Online,Oct-2022,12,999,557,11988,6684,5304
+Smart Switch,Automation,North,Retail,Mar-2023,96,254,575,24384,55200,-30816
+Power Bank,Accessories,East,Online,Nov-2022,74,512,542,37888,40108,-2220
+Solar Charger,Green Energy,West,Retail,Dec-2022,76,1274,708,96824,53808,43016
+Mini Inverter,Backup,East,Retail,May-2022,44,295,187,12980,8228,4752
+Smart Switch,Automation,West,Retail,Jul-2022,46,381,568,17526,26128,-8602
+Power Bank,Accessories,East,Retail,Oct-2022,42,350,184,14700,7728,6972
+Smart Switch,Automation,West,Online,Jun-2022,45,899,181,40455,8145,32310
+Power Bank,Accessories,South,Online,Aug-2022,29,945,485,27405,14065,13340
+Smart Switch,Automation,East,Online,Mar-2023,29,460,355,13340,10295,3045
+LED Bulb,Lighting,North,Online,Mar-2023,95,792,257,75240,24415,50825
+Smart Switch,Automation,North,Online,Apr-2022,90,725,620,65250,55800,9450
+Power Bank,Accessories,South,Online,Oct-2022,82,1458,593,119556,48626,70930
+Mini Inverter,Backup,North,Retail,May-2022,96,1004,174,96384,16704,79680
+Power Bank,Accessories,West,Online,Jan-2023,50,1133,133,56650,6650,50000
+LED Bulb,Lighting,South,Online,Sep-2022,85,541,126,45985,10710,35275
+LED Bulb,Lighting,East,Retail,Feb-2023,49,809,367,39641,17983,21658
+Solar Charger,Green Energy,South,Online,Oct-2022,19,1121,575,21299,10925,10374
+Power Bank,Accessories,North,Retail,May-2022,63,1018,792,64134,49896,14238
+Mini Inverter,Backup,East,Retail,Aug-2022,20,210,611,4200,12220,-8020
+Mini Inverter,Backup,South,Online,Oct-2022,63,297,154,18711,9702,9009
+Solar Charger,Green Energy,West,Online,Jan-2023,45,950,247,42750,11115,31635
+Smart Switch,Automation,East,Retail,Feb-2023,90,1157,606,104130,54540,49590
+Solar Charger,Green Energy,East,Retail,Dec-2022,35,272,395,9520,13825,-4305
+LED Bulb,Lighting,South,Online,Feb-2023,51,224,138,11424,7038,4386
+Smart Switch,Automation,East,Retail,Aug-2022,53,301,623,15953,33019,-17066
+Smart Switch,Automation,South,Retail,Feb-2023,58,1156,116,67048,6728,60320
+Power Bank,Accessories,South,Online,Apr-2022,56,211,417,11816,23352,-11536
+Smart Switch,Automation,West,Online,Aug-2022,90,573,299,51570,26910,24660
+LED Bulb,Lighting,North,Online,Mar-2023,24,688,637,16512,15288,1224
+Power Bank,Accessories,West,Online,Apr-2022,32,1180,185,37760,5920,31840
+Power Bank,Accessories,East,Retail,Aug-2022,16,336,787,5376,12592,-7216
+Power Bank,Accessories,East,Online,May-2022,48,1194,501,57312,24048,33264
+Smart Switch,Automation,North,Online,Apr-2022,23,1382,251,31786,5773,26013
+Smart Switch,Automation,West,Retail,May-2022,12,1004,270,12048,3240,8808
+Power Bank,Accessories,East,Online,Mar-2023,48,696,615,33408,29520,3888
+Solar Charger,Green Energy,North,Online,May-2022,42,215,592,9030,24864,-15834
+Power Bank,Accessories,West,Retail,May-2022,64,938,269,60032,17216,42816
+Power Bank,Accessories,North,Online,Oct-2022,22,1364,373,30008,8206,21802
+Smart Switch,Automation,East,Online,Jul-2022,38,1157,576,43966,21888,22078
+Solar Charger,Green Energy,West,Online,Nov-2022,19,1125,458,21375,8702,12673
+Mini Inverter,Backup,South,Online,Apr-2022,12,1365,475,16380,5700,10680
+Power Bank,Accessories,West,Retail,Aug-2022,34,631,684,21454,23256,-1802
+LED Bulb,Lighting,South,Retail,Jul-2022,21,386,160,8106,3360,4746
+Solar Charger,Green Energy,East,Retail,Sep-2022,48,210,161,10080,7728,2352
+Solar Charger,Green Energy,North,Online,Oct-2022,61,971,670,59231,40870,18361
+Mini Inverter,Backup,South,Online,Sep-2022,83,1330,325,110390,26975,83415
+LED Bulb,Lighting,North,Online,Apr-2022,12,253,146,3036,1752,1284
+LED Bulb,Lighting,South,Online,Jul-2022,70,618,789,43260,55230,-11970
+Power Bank,Accessories,North,Online,Nov-2022,12,359,219,4308,2628,1680
+Solar Charger,Green Energy,East,Online,Dec-2022,77,1490,716,114730,55132,59598
+Smart Switch,Automation,East,Retail,Dec-2022,76,1120,431,85120,32756,52364
+Power Bank,Accessories,South,Online,Nov-2022,34,1484,494,50456,16796,33660
+Smart Switch,Automation,North,Retail,Mar-2023,88,237,427,20856,37576,-16720
+Smart Switch,Automation,South,Retail,Jan-2023,27,653,136,17631,3672,13959
+Mini Inverter,Backup,West,Online,Mar-2023,78,1172,692,91416,53976,37440
+Power Bank,Accessories,West,Online,Jun-2022,67,1263,139,84621,9313,75308
+Smart Switch,Automation,South,Online,Apr-2022,15,415,246,6225,3690,2535
+Mini Inverter,Backup,South,Online,Feb-2023,57,980,462,55860,26334,29526
+Solar Charger,Green Energy,South,Online,Jan-2023,72,621,799,44712,57528,-12816
+Solar Charger,Green Energy,East,Online,Jan-2023,40,734,525,29360,21000,8360
+Power Bank,Accessories,West,Online,Aug-2022,39,281,455,10959,17745,-6786
+Power Bank,Accessories,North,Online,Mar-2023,48,1447,624,69456,29952,39504
+Smart Switch,Automation,South,Online,Apr-2022,69,647,464,44643,32016,12627
+Smart Switch,Automation,West,Retail,Jun-2022,39,785,332,30615,12948,17667
+Power Bank,Accessories,East,Retail,Mar-2023,88,1445,136,127160,11968,115192
+Solar Charger,Green Energy,North,Retail,Jul-2022,77,930,291,71610,22407,49203
+LED Bulb,Lighting,West,Retail,Apr-2022,19,1085,121,20615,2299,18316
+Power Bank,Accessories,West,Online,May-2022,59,1493,786,88087,46374,41713
+Solar Charger,Green Energy,West,Retail,Feb-2023,61,580,559,35380,34099,1281
+Solar Charger,Green Energy,East,Online,Sep-2022,88,1146,558,100848,49104,51744
+Power Bank,Accessories,East,Retail,May-2022,55,937,384,51535,21120,30415
+Mini Inverter,Backup,South,Online,Dec-2022,48,1494,256,71712,12288,59424
+Smart Switch,Automation,West,Retail,May-2022,56,1173,183,65688,10248,55440
+Smart Switch,Automation,East,Online,Apr-2022,65,1188,120,77220,7800,69420
+Solar Charger,Green Energy,East,Retail,Sep-2022,28,1480,669,41440,18732,22708
+Mini Inverter,Backup,North,Online,May-2022,70,1386,623,97020,43610,53410
+Power Bank,Accessories,East,Retail,Feb-2023,81,1283,529,103923,42849,61074
+LED Bulb,Lighting,South,Online,Aug-2022,17,790,126,13430,2142,11288
+Power Bank,Accessories,West,Online,Jun-2022,73,892,635,65116,46355,18761
+Mini Inverter,Backup,North,Online,Jul-2022,55,726,252,39930,13860,26070
+LED Bulb,Lighting,North,Retail,Jul-2022,18,1216,600,21888,10800,11088
+Solar Charger,Green Energy,North,Retail,Nov-2022,20,1287,171,25740,3420,22320
+Solar Charger,Green Energy,North,Retail,May-2022,47,210,400,9870,18800,-8930
+LED Bulb,Lighting,South,Retail,Sep-2022,50,978,313,48900,15650,33250
+Smart Switch,Automation,West,Online,Apr-2022,85,1088,145,92480,12325,80155
+Mini Inverter,Backup,West,Online,Jan-2023,49,441,101,21609,4949,16660
+LED Bulb,Lighting,South,Online,Apr-2022,86,315,765,27090,65790,-38700
+Power Bank,Accessories,North,Online,Jan-2023,55,321,242,17655,13310,4345
+Power Bank,Accessories,North,Online,Mar-2023,58,516,734,29928,42572,-12644
+LED Bulb,Lighting,North,Online,Oct-2022,41,752,469,30832,19229,11603
+Mini Inverter,Backup,West,Retail,May-2022,71,1307,417,92797,29607,63190
+Smart Switch,Automation,East,Online,Feb-2023,93,407,489,37851,45477,-7626
+Power Bank,Accessories,North,Retail,Jun-2022,50,1073,113,53650,5650,48000
+Smart Switch,Automation,North,Retail,Mar-2023,96,1108,636,106368,61056,45312
+Solar Charger,Green Energy,East,Retail,Jun-2022,64,949,455,60736,29120,31616
+Solar Charger,Green Energy,West,Online,Oct-2022,62,894,387,55428,23994,31434
+Smart Switch,Automation,West,Retail,Sep-2022,27,861,648,23247,17496,5751
+LED Bulb,Lighting,East,Online,Mar-2023,83,954,134,79182,11122,68060
+Solar Charger,Green Energy,South,Retail,Apr-2022,16,1061,258,16976,4128,12848
+Power Bank,Accessories,South,Retail,Jul-2022,46,715,463,32890,21298,11592
+Mini Inverter,Backup,West,Retail,May-2022,58,1146,707,66468,41006,25462
+LED Bulb,Lighting,West,Retail,Aug-2022,75,534,517,40050,38775,1275
+Mini Inverter,Backup,North,Online,Jan-2023,67,1469,736,98423,49312,49111
+Mini Inverter,Backup,East,Online,May-2022,49,220,619,10780,30331,-19551
+Mini Inverter,Backup,West,Retail,Oct-2022,51,1139,625,58089,31875,26214
+Power Bank,Accessories,East,Online,Aug-2022,47,1204,652,56588,30644,25944
+Mini Inverter,Backup,South,Online,Nov-2022,98,1307,229,128086,22442,105644
+LED Bulb,Lighting,East,Online,Dec-2022,37,265,262,9805,9694,111
+Solar Charger,Green Energy,South,Online,Apr-2022,49,659,775,32291,37975,-5684
+Solar Charger,Green Energy,East,Online,Feb-2023,19,829,369,15751,7011,8740
+Power Bank,Accessories,South,Retail,Mar-2023,10,332,375,3320,3750,-430
+Smart Switch,Automation,West,Online,Dec-2022,73,1085,383,79205,27959,51246
+LED Bulb,Lighting,East,Online,Aug-2022,85,364,404,30940,34340,-3400
+LED Bulb,Lighting,West,Retail,Nov-2022,37,819,350,30303,12950,17353
+Solar Charger,Green Energy,West,Retail,May-2022,82,710,392,58220,32144,26076
+Mini Inverter,Backup,North,Online,Apr-2022,44,397,584,17468,25696,-8228
+Solar Charger,Green Energy,East,Online,Apr-2022,60,1429,111,85740,6660,79080
+Power Bank,Accessories,West,Online,May-2022,97,1474,225,142978,21825,121153
+Power Bank,Accessories,South,Retail,Dec-2022,48,1446,283,69408,13584,55824
+Smart Switch,Automation,North,Online,Mar-2023,47,350,483,16450,22701,-6251
+Solar Charger,Green Energy,West,Retail,May-2022,17,328,768,5576,13056,-7480
+Solar Charger,Green Energy,East,Retail,May-2022,74,510,218,37740,16132,21608
+Power Bank,Accessories,East,Retail,May-2022,91,1368,637,124488,57967,66521
+LED Bulb,Lighting,West,Online,Nov-2022,98,1013,100,99274,9800,89474
+Smart Switch,Automation,East,Retail,Aug-2022,57,1292,460,73644,26220,47424
+Power Bank,Accessories,North,Retail,May-2022,73,774,684,56502,49932,6570
+LED Bulb,Lighting,South,Online,Dec-2022,86,1382,588,118852,50568,68284
+Smart Switch,Automation,West,Retail,Sep-2022,13,218,553,2834,7189,-4355
+Power Bank,Accessories,North,Online,Dec-2022,32,1050,464,33600,14848,18752
+Smart Switch,Automation,South,Retail,Sep-2022,80,924,754,73920,60320,13600
+LED Bulb,Lighting,West,Retail,Oct-2022,24,1116,704,26784,16896,9888
+LED Bulb,Lighting,South,Online,Apr-2022,44,301,366,13244,16104,-2860
+Smart Switch,Automation,West,Retail,Jan-2023,75,1141,102,85575,7650,77925
+Solar Charger,Green Energy,North,Retail,May-2022,79,828,320,65412,25280,40132
+Power Bank,Accessories,South,Retail,Aug-2022,57,1174,399,66918,22743,44175
+Mini Inverter,Backup,East,Online,Oct-2022,79,697,463,55063,36577,18486
+Smart Switch,Automation,East,Online,Aug-2022,32,818,435,26176,13920,12256
+Solar Charger,Green Energy,West,Online,Dec-2022,45,914,150,41130,6750,34380
+Mini Inverter,Backup,South,Online,Sep-2022,28,1163,472,32564,13216,19348
+Mini Inverter,Backup,North,Online,Mar-2023,44,1367,205,60148,9020,51128
+Mini Inverter,Backup,North,Retail,May-2022,58,788,743,45704,43094,2610
+Power Bank,Accessories,South,Retail,Feb-2023,16,1331,685,21296,10960,10336
+Solar Charger,Green Energy,East,Online,Nov-2022,51,644,397,32844,20247,12597
+Mini Inverter,Backup,West,Retail,Sep-2022,16,1395,475,22320,7600,14720
+Solar Charger,Green Energy,North,Online,Feb-2023,22,1086,217,23892,4774,19118
+Solar Charger,Green Energy,North,Retail,Dec-2022,35,720,109,25200,3815,21385
+Power Bank,Accessories,South,Online,Jan-2023,81,351,148,28431,11988,16443
+Power Bank,Accessories,East,Online,Jul-2022,59,863,630,50917,37170,13747
+Mini Inverter,Backup,West,Online,Jan-2023,98,345,775,33810,75950,-42140
+Power Bank,Accessories,South,Online,May-2022,78,886,660,69108,51480,17628
+Smart Switch,Automation,West,Retail,Apr-2022,30,861,531,25830,15930,9900
+Solar Charger,Green Energy,East,Online,Mar-2023,80,1383,622,110640,49760,60880
+Power Bank,Accessories,South,Retail,Dec-2022,34,969,419,32946,14246,18700
+Smart Switch,Automation,East,Online,May-2022,76,836,266,63536,20216,43320
+LED Bulb,Lighting,South,Online,Oct-2022,33,899,401,29667,13233,16434
+Smart Switch,Automation,West,Retail,Sep-2022,51,487,266,24837,13566,11271
+Solar Charger,Green Energy,North,Retail,Nov-2022,45,272,747,12240,33615,-21375
+LED Bulb,Lighting,East,Retail,Dec-2022,77,760,741,58520,57057,1463
+Mini Inverter,Backup,South,Retail,Feb-2023,41,348,329,14268,13489,779
+Power Bank,Accessories,East,Retail,Mar-2023,67,1482,441,99294,29547,69747
+Power Bank,Accessories,East,Retail,May-2022,90,553,570,49770,51300,-1530
+Mini Inverter,Backup,West,Retail,Mar-2023,67,652,576,43684,38592,5092
+LED Bulb,Lighting,East,Retail,Jan-2023,71,869,732,61699,51972,9727
+Mini Inverter,Backup,South,Retail,Mar-2023,17,1179,614,20043,10438,9605
+Solar Charger,Green Energy,East,Retail,Jun-2022,14,1471,463,20594,6482,14112
+LED Bulb,Lighting,South,Retail,Aug-2022,93,605,555,56265,51615,4650
+LED Bulb,Lighting,South,Retail,Mar-2023,47,937,608,44039,28576,15463
+Mini Inverter,Backup,South,Online,May-2022,75,560,440,42000,33000,9000
+Power Bank,Accessories,East,Online,Dec-2022,74,1034,279,76516,20646,55870
+Power Bank,Accessories,West,Retail,Oct-2022,15,605,242,9075,3630,5445
+Mini Inverter,Backup,South,Retail,Jan-2023,21,1462,660,30702,13860,16842
+Power Bank,Accessories,North,Retail,Jun-2022,39,1439,769,56121,29991,26130
+Smart Switch,Automation,West,Online,Jul-2022,23,272,498,6256,11454,-5198
+Solar Charger,Green Energy,East,Retail,Feb-2023,11,1130,565,12430,6215,6215
+Mini Inverter,Backup,North,Retail,Jan-2023,34,992,352,33728,11968,21760
+LED Bulb,Lighting,West,Online,Apr-2022,89,1021,337,90869,29993,60876
+Solar Charger,Green Energy,West,Online,Jun-2022,50,1101,124,55050,6200,48850
+Solar Charger,Green Energy,South,Retail,Nov-2022,30,1193,636,35790,19080,16710
+Mini Inverter,Backup,South,Retail,Mar-2023,41,327,707,13407,28987,-15580
+Mini Inverter,Backup,South,Online,Jul-2022,27,1188,546,32076,14742,17334
+Solar Charger,Green Energy,East,Retail,May-2022,69,862,566,59478,39054,20424
+Smart Switch,Automation,South,Online,May-2022,19,544,741,10336,14079,-3743
+Smart Switch,Automation,North,Online,Nov-2022,88,656,182,57728,16016,41712
+LED Bulb,Lighting,East,Online,Dec-2022,37,389,593,14393,21941,-7548
+Smart Switch,Automation,East,Retail,Mar-2023,13,984,200,12792,2600,10192
+Mini Inverter,Backup,West,Online,Jul-2022,45,323,521,14535,23445,-8910
+Power Bank,Accessories,East,Online,Jul-2022,72,967,582,69624,41904,27720
+Smart Switch,Automation,West,Retail,Oct-2022,95,709,282,67355,26790,40565
+Power Bank,Accessories,North,Online,Aug-2022,88,860,749,75680,65912,9768
+Power Bank,Accessories,West,Online,Aug-2022,74,1236,312,91464,23088,68376
+Power Bank,Accessories,North,Online,Aug-2022,62,537,272,33294,16864,16430
+Mini Inverter,Backup,South,Online,Apr-2022,69,594,407,40986,28083,12903
+Solar Charger,Green Energy,North,Retail,Jul-2022,43,823,693,35389,29799,5590
+Smart Switch,Automation,South,Online,Jul-2022,38,753,120,28614,4560,24054
+Power Bank,Accessories,South,Online,Dec-2022,73,216,219,15768,15987,-219
+LED Bulb,Lighting,South,Online,May-2022,69,228,196,15732,13524,2208
+Power Bank,Accessories,North,Retail,Mar-2023,30,914,299,27420,8970,18450
+LED Bulb,Lighting,East,Online,Mar-2023,96,1055,272,101280,26112,75168
+Smart Switch,Automation,South,Retail,Mar-2023,74,286,200,21164,14800,6364
+Solar Charger,Green Energy,West,Online,Oct-2022,52,607,582,31564,30264,1300
+LED Bulb,Lighting,South,Retail,Aug-2022,67,565,327,37855,21909,15946
+Smart Switch,Automation,West,Online,Jun-2022,16,698,639,11168,10224,944
+Smart Switch,Automation,East,Retail,Aug-2022,14,549,451,7686,6314,1372
+Power Bank,Accessories,North,Online,Mar-2023,90,1446,747,130140,67230,62910
+LED Bulb,Lighting,South,Retail,May-2022,76,1035,689,78660,52364,26296
+LED Bulb,Lighting,South,Online,Jan-2023,71,966,469,68586,33299,35287
+Power Bank,Accessories,South,Retail,Mar-2023,11,573,792,6303,8712,-2409
+Mini Inverter,Backup,North,Online,Jan-2023,24,472,501,11328,12024,-696
+LED Bulb,Lighting,South,Retail,Feb-2023,87,323,725,28101,63075,-34974
+Mini Inverter,Backup,North,Retail,Aug-2022,53,885,212,46905,11236,35669
+Solar Charger,Green Energy,East,Retail,Oct-2022,48,696,332,33408,15936,17472
+Power Bank,Accessories,South,Online,Aug-2022,17,501,459,8517,7803,714
+Mini Inverter,Backup,West,Online,Sep-2022,31,434,444,13454,13764,-310
+Mini Inverter,Backup,South,Online,May-2022,11,740,312,8140,3432,4708
+Mini Inverter,Backup,East,Retail,Jun-2022,32,287,143,9184,4576,4608
+Solar Charger,Green Energy,North,Online,Aug-2022,70,895,614,62650,42980,19670
+Smart Switch,Automation,East,Online,Oct-2022,34,1351,328,45934,11152,34782
+Power Bank,Accessories,North,Retail,Nov-2022,10,1484,614,14840,6140,8700
+LED Bulb,Lighting,West,Retail,Jun-2022,73,1073,590,78329,43070,35259
+LED Bulb,Lighting,North,Online,Oct-2022,36,1289,211,46404,7596,38808
+Solar Charger,Green Energy,South,Retail,Jul-2022,95,433,701,41135,66595,-25460
+Power Bank,Accessories,North,Retail,Apr-2022,87,1237,732,107619,63684,43935
+Power Bank,Accessories,South,Online,Jul-2022,84,1214,169,101976,14196,87780
+Smart Switch,Automation,South,Retail,Jul-2022,13,1243,635,16159,8255,7904
+Smart Switch,Automation,North,Online,Sep-2022,94,1021,504,95974,47376,48598
+Power Bank,Accessories,North,Retail,Jul-2022,69,1280,119,88320,8211,80109
+LED Bulb,Lighting,East,Online,Jul-2022,23,535,797,12305,18331,-6026
+Mini Inverter,Backup,West,Retail,Nov-2022,43,793,258,34099,11094,23005
+Mini Inverter,Backup,West,Online,Apr-2022,72,410,505,29520,36360,-6840
+Solar Charger,Green Energy,West,Retail,Jan-2023,40,1067,118,42680,4720,37960
+Solar Charger,Green Energy,West,Retail,Oct-2022,64,680,245,43520,15680,27840
+Mini Inverter,Backup,South,Online,Mar-2023,56,1170,217,65520,12152,53368
+Solar Charger,Green Energy,South,Online,Sep-2022,13,859,146,11167,1898,9269
+Smart Switch,Automation,East,Retail,Mar-2023,84,336,701,28224,58884,-30660
+Solar Charger,Green Energy,South,Retail,Jan-2023,59,1172,718,69148,42362,26786
+LED Bulb,Lighting,North,Retail,Sep-2022,79,762,525,60198,41475,18723
+Smart Switch,Automation,North,Retail,Jun-2022,78,248,173,19344,13494,5850
+Solar Charger,Green Energy,West,Retail,Jan-2023,13,837,394,10881,5122,5759
+Power Bank,Accessories,East,Online,Nov-2022,66,811,281,53526,18546,34980
+Mini Inverter,Backup,West,Retail,Dec-2022,40,1184,647,47360,25880,21480
+Solar Charger,Green Energy,North,Retail,Mar-2023,39,1443,262,56277,10218,46059
+Mini Inverter,Backup,North,Retail,Jan-2023,89,1405,717,125045,63813,61232
+LED Bulb,Lighting,South,Retail,Mar-2023,82,1451,795,118982,65190,53792
+Smart Switch,Automation,West,Retail,Jan-2023,66,395,789,26070,52074,-26004
+LED Bulb,Lighting,East,Online,Sep-2022,24,871,302,20904,7248,13656
+Mini Inverter,Backup,West,Online,Oct-2022,30,691,241,20730,7230,13500
+LED Bulb,Lighting,South,Retail,Aug-2022,91,1354,698,123214,63518,59696
+Power Bank,Accessories,South,Retail,Apr-2022,28,570,483,15960,13524,2436
+Mini Inverter,Backup,South,Online,Dec-2022,42,1401,728,58842,30576,28266
+Mini Inverter,Backup,East,Retail,Dec-2022,80,797,388,63760,31040,32720
+LED Bulb,Lighting,West,Online,May-2022,37,1153,142,42661,5254,37407
+LED Bulb,Lighting,East,Retail,Apr-2022,26,1165,593,30290,15418,14872
+Power Bank,Accessories,South,Retail,Aug-2022,14,221,211,3094,2954,140
+LED Bulb,Lighting,North,Retail,May-2022,25,634,736,15850,18400,-2550
+Mini Inverter,Backup,West,Online,Nov-2022,47,770,749,36190,35203,987
+Smart Switch,Automation,West,Online,Apr-2022,73,231,490,16863,35770,-18907
+Solar Charger,Green Energy,West,Retail,Jul-2022,95,575,312,54625,29640,24985
+Mini Inverter,Backup,West,Retail,Feb-2023,49,257,125,12593,6125,6468
+LED Bulb,Lighting,East,Retail,Dec-2022,12,1267,196,15204,2352,12852
+Power Bank,Accessories,West,Online,Sep-2022,48,800,478,38400,22944,15456
+Power Bank,Accessories,East,Online,Aug-2022,60,978,603,58680,36180,22500
+Mini Inverter,Backup,North,Retail,Nov-2022,50,363,584,18150,29200,-11050
+Solar Charger,Green Energy,West,Online,Dec-2022,56,437,203,24472,11368,13104
+Power Bank,Accessories,North,Retail,Jul-2022,79,1491,485,117789,38315,79474
+Smart Switch,Automation,South,Online,Feb-2023,49,685,319,33565,15631,17934
+LED Bulb,Lighting,East,Retail,Nov-2022,41,887,718,36367,29438,6929
+Solar Charger,Green Energy,West,Retail,Sep-2022,28,743,748,20804,20944,-140
+Mini Inverter,Backup,East,Retail,Oct-2022,25,1352,674,33800,16850,16950
+Solar Charger,Green Energy,East,Online,Aug-2022,39,468,261,18252,10179,8073
+Mini Inverter,Backup,West,Retail,Jan-2023,68,446,739,30328,50252,-19924
+Smart Switch,Automation,South,Online,Jun-2022,77,1129,765,86933,58905,28028
+Solar Charger,Green Energy,East,Online,Mar-2023,18,845,310,15210,5580,9630
+Mini Inverter,Backup,West,Online,Feb-2023,75,1142,463,85650,34725,50925
+Mini Inverter,Backup,South,Online,Nov-2022,95,1354,687,128630,65265,63365
+Mini Inverter,Backup,North,Retail,Aug-2022,37,1441,289,53317,10693,42624
+LED Bulb,Lighting,South,Online,Jul-2022,43,240,406,10320,17458,-7138
+Power Bank,Accessories,North,Online,Dec-2022,32,1399,761,44768,24352,20416
+LED Bulb,Lighting,South,Retail,Feb-2023,24,1130,388,27120,9312,17808
+Mini Inverter,Backup,South,Retail,May-2022,75,682,347,51150,26025,25125
+Mini Inverter,Backup,East,Online,Sep-2022,82,323,100,26486,8200,18286
+Smart Switch,Automation,West,Retail,Dec-2022,56,342,290,19152,16240,2912
+Solar Charger,Green Energy,East,Online,Aug-2022,62,659,500,40858,31000,9858
+LED Bulb,Lighting,East,Retail,May-2022,15,1474,318,22110,4770,17340
+Smart Switch,Automation,East,Retail,Nov-2022,55,749,241,41195,13255,27940
+Mini Inverter,Backup,South,Retail,Jun-2022,28,795,380,22260,10640,11620
+Power Bank,Accessories,North,Online,Sep-2022,57,282,721,16074,41097,-25023
+Smart Switch,Automation,East,Retail,Jun-2022,82,483,272,39606,22304,17302
+LED Bulb,Lighting,East,Retail,Oct-2022,28,1142,497,31976,13916,18060
+Solar Charger,Green Energy,South,Retail,Nov-2022,90,485,364,43650,32760,10890
+LED Bulb,Lighting,West,Retail,Dec-2022,23,1426,433,32798,9959,22839
+LED Bulb,Lighting,West,Online,Jul-2022,17,713,736,12121,12512,-391
+LED Bulb,Lighting,West,Online,Oct-2022,25,676,161,16900,4025,12875
+LED Bulb,Lighting,West,Retail,Mar-2023,44,978,675,43032,29700,13332
+Power Bank,Accessories,South,Online,Aug-2022,78,1499,783,116922,61074,55848
+LED Bulb,Lighting,South,Online,Dec-2022,70,1258,581,88060,40670,47390
+LED Bulb,Lighting,West,Online,Oct-2022,56,531,537,29736,30072,-336
+Mini Inverter,Backup,North,Online,Dec-2022,28,225,704,6300,19712,-13412
+Solar Charger,Green Energy,East,Retail,Jul-2022,38,378,231,14364,8778,5586
+Mini Inverter,Backup,West,Retail,Sep-2022,85,778,591,66130,50235,15895
+Power Bank,Accessories,West,Retail,Feb-2023,64,1310,361,83840,23104,60736
+LED Bulb,Lighting,North,Online,Mar-2023,15,929,382,13935,5730,8205
+Smart Switch,Automation,West,Retail,Apr-2022,66,292,720,19272,47520,-28248
+LED Bulb,Lighting,East,Retail,Jun-2022,57,948,788,54036,44916,9120
+Solar Charger,Green Energy,South,Retail,Apr-2022,55,1080,289,59400,15895,43505
+Smart Switch,Automation,West,Retail,Apr-2022,99,540,417,53460,41283,12177
+Power Bank,Accessories,East,Retail,Dec-2022,18,1016,652,18288,11736,6552
+LED Bulb,Lighting,West,Online,Jun-2022,68,382,140,25976,9520,16456
+Solar Charger,Green Energy,West,Online,Jun-2022,20,326,657,6520,13140,-6620
+Solar Charger,Green Energy,South,Retail,Mar-2023,28,783,555,21924,15540,6384
+Solar Charger,Green Energy,South,Online,Mar-2023,70,1463,400,102410,28000,74410
+Power Bank,Accessories,East,Retail,Jan-2023,78,719,252,56082,19656,36426
+Smart Switch,Automation,North,Online,Oct-2022,58,1049,757,60842,43906,16936
