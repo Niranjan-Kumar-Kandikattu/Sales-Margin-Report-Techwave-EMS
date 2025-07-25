@@ -22,8 +22,8 @@
 
 ## 🙋‍♂️ Author
 
-Created by **Niranjan-Kumar-Kandikattu**  
-📬 For learning/demo purposes.  
+Developed by **Niranjan-Kumar-Kandikattu**  
+📬 For learning purpose.  
 💡 [Optional: Link to your LinkedIn or portfolio]
 
 
